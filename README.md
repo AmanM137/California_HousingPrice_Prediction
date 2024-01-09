@@ -5,5 +5,5 @@ This repository contains a machine learning model for predicting housing prices 
 The dataset includes a list of variables related to the houses found in a given California district, along with some summary statistics. It's important to note that the data require preprocessing steps due to potential issues with cleanliness. The project will guide you through the necessary data cleaning and preprocessing steps to ensure the accuracy and reliability of the machine learning model.
 
 ### References:
-"*"Hands–On Machine Learning with Scikit–Learn and TensorFlow by Aurélien Géron
-"*"Kaggle
+* Hands–On Machine Learning with Scikit–Learn and TensorFlow by Aurélien Géron<br>
+* Kaggle
